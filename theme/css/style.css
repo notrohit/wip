@@ -57,7 +57,7 @@ p {
 }
 
 .navbar-toggle .icon-bar {
-  background: #f89d35;
+  background: #daa520;
 }
 
 input[type=email], input[type=password], input[type=text], input[type=tel] {
@@ -68,7 +68,7 @@ input[type=email], input[type=password], input[type=text], input[type=tel] {
 }
 input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, input[type=tel]:focus {
   box-shadow: none;
-  border: 1px solid #f89d35;
+  border: 1px solid #daa520;
 }
 
 .input {
@@ -79,7 +79,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 .input:focus {
   box-shadow: none;
-  border: 1px solid #f89d35;
+  border: 1px solid #daa520;
 }
 
 .py-7 {
@@ -108,8 +108,8 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .btn-main, .btn-small {
-  background: #f89d35;
-  border-color: #f89d35;
+  background: #daa520;
+  border-color: #daa520;
   color: #fff;
   transition: all 0.2s ease;
 }
@@ -125,19 +125,19 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   transition: all 0.2s ease;
 }
 .btn-main-2:hover {
-  background: #f89d35;
-  border-color: #f89d35;
+  background: #daa520;
+  border-color: #daa520;
   color: #fff;
 }
 
 .btn-solid-border {
-  border: 2px solid #f89d35;
+  border: 2px solid #daa520;
   background: transparent;
   color: #232323;
 }
 .btn-solid-border:hover {
-  border: 2px solid #f89d35;
-  background: #f89d35;
+  border: 2px solid #daa520;
+  background: #daa520;
 }
 
 .btn-solid-main-2 {
@@ -182,15 +182,15 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .bg-primary {
-  background: #f89d35;
+  background: #daa520;
 }
 
 .bg-primary-dark {
-  background: #f28508;
+  background: #ae8319;
 }
 
 .bg-primary-darker {
-  background: #c06a07;
+  background: #816213;
 }
 
 .bg-dark {
@@ -223,7 +223,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .subtitle {
-  color: #f89d35;
+  color: #daa520;
   font-size: 14px;
   letter-spacing: 1px;
 }
@@ -260,7 +260,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .text-color {
-  color: #f89d35;
+  color: #daa520;
 }
 
 .text-black {
@@ -299,7 +299,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #f89d35;
+  color: #daa520;
   text-decoration: none;
 }
 
@@ -498,7 +498,7 @@ ul.list-styled {
   border: 0;
   margin-top: 11px;
   color: #fff;
-  background-color: #f89d35;
+  background-color: #daa520;
   outline: 0;
   height: 2.8rem;
   width: 2.8rem;
@@ -551,7 +551,7 @@ ul.list-styled {
   }
 }
 #navbar .navbar-link:hover, #navbar .navbar-link:focus {
-  color: #f89d35;
+  color: #daa520;
 }
 #navbar .btn:hover {
   color: #fff;
@@ -568,7 +568,7 @@ ul.list-styled {
 }
 .header-top .top-btn {
   padding: 14px 25px;
-  background: #f89d35;
+  background: #daa520;
   line-height: 40px;
   color: #fff;
 }
@@ -610,7 +610,7 @@ ul.list-styled {
   }
 }
 .header-top .header-top-info a i {
-  color: #f89d35;
+  color: #daa520;
 }
 .header-top .btn {
   font-size: 12px !important;
@@ -674,7 +674,7 @@ ul.list-styled {
   border-bottom: 1px solid rgba(0, 0, 0, 0.03);
 }
 .navbar-dropdown .navbar-item:hover {
-  background: #f89d35 !important;
+  background: #daa520 !important;
   color: #fff !important;
 }
 @media (max-width: 1023px) {
@@ -780,7 +780,7 @@ ul.list-styled {
   text-align: center;
   border-radius: 100%;
   display: flex;
-  background: #f89d35;
+  background: #daa520;
   color: #fff;
   align-items: center;
   justify-content: center;
@@ -846,7 +846,7 @@ ul.list-styled {
 }
 .volunteer-form .btn:hover {
   color: #fff;
-  border-color: #f89d35;
+  border-color: #daa520;
 }
 
 .clients-wrap a {
@@ -918,7 +918,7 @@ ul.list-styled {
 .error-content i {
   width: 120px;
   height: 120px;
-  background: #f89d35;
+  background: #daa520;
   color: #fff;
   display: inline-block;
   border-radius: 100%;
@@ -1032,7 +1032,7 @@ ul.list-styled {
 }
 .feature-inner i {
   font-size: 50px;
-  color: #f89d35;
+  color: #daa520;
 }
 .feature-inner h4 {
   margin-bottom: 0px;
@@ -1058,7 +1058,7 @@ ul.list-styled {
 .counter-item h3 {
   margin-bottom: 0px;
   font-family: "Montserrat", sans-serif;
-  color: #f89d35;
+  color: #daa520;
 }
 
 .bg-counter-2 {
@@ -1180,7 +1180,7 @@ ul.list-styled {
   border: 1px solid transparent;
 }
 .donation .donation-form .input:focus {
-  border-color: #f89d35;
+  border-color: #daa520;
 }
 .donation .donation-form .form-group {
   margin-bottom: 25px;
@@ -1197,7 +1197,7 @@ ul.list-styled {
   border: 1px solid rgba(0, 0, 0, 0.06);
 }
 .volunteer-form .input:focus {
-  border-color: #f89d35;
+  border-color: #daa520;
 }
 
 .event-item {
@@ -1339,7 +1339,7 @@ ul.list-styled {
   transition: all 0.4s ease 0s;
 }
 .blog-item-content h3 a:hover {
-  color: #f89d35 !important;
+  color: #daa520 !important;
 }
 
 .blog-item {
@@ -1368,8 +1368,8 @@ ul.list-styled {
   text-transform: capitalize;
 }
 .tags a:hover {
-  background-color: #f89d35;
-  border-color: #f89d35;
+  background-color: #daa520;
+  border-color: #daa520;
   color: white;
 }
 
@@ -1431,7 +1431,7 @@ ul.list-styled {
   margin: 10px 0;
 }
 .share-option a:hover {
-  background: #f89d35;
+  background: #daa520;
   color: #fff;
 }
 
@@ -1453,7 +1453,7 @@ h3.quote::before {
   content: "";
   width: 55px;
   height: 2px;
-  background: #f89d35;
+  background: #daa520;
   position: absolute;
   top: 25px;
   left: 0;
@@ -1550,7 +1550,7 @@ h3.quote::before {
   font-weight: 500;
 }
 .post-comments .comment-author a {
-  color: #f89d35;
+  color: #daa520;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -1561,7 +1561,7 @@ h3.quote::before {
   font-size: 12px;
 }
 .post-comments .comment-button {
-  color: #f89d35;
+  color: #daa520;
   display: inline-block;
   margin-left: 5px;
   font-size: 12px;
@@ -1571,7 +1571,7 @@ h3.quote::before {
   display: inline-block;
 }
 .post-comments .comment-button:hover {
-  color: #f89d35;
+  color: #daa520;
 }
 
 .post-excerpt {
@@ -1589,7 +1589,7 @@ h3.quote::before {
 .post-excerpt blockquote.quote-post p {
   line-height: 30px;
   font-size: 20px;
-  color: #f89d35;
+  color: #daa520;
 }
 
 .single-blog {
@@ -1616,7 +1616,7 @@ h3.quote::before {
   color: #000;
 }
 .next-prev a:hover {
-  color: #f89d35;
+  color: #daa520;
 }
 .next-prev .prev-post i {
   margin-right: 10px;
@@ -1635,7 +1635,7 @@ h3.quote::before {
   font-size: 16px;
 }
 .social-profile ul li a i:hover {
-  color: #f89d35;
+  color: #daa520;
 }
 
 .comments-section {
@@ -1679,7 +1679,7 @@ h3.quote::before {
   margin-bottom: 8px;
 }
 .comment-wrap .media .media-heading a {
-  color: #f89d35;
+  color: #daa520;
   font-size: 13px;
 }
 .comment-wrap .media .comment-meta {
@@ -1700,7 +1700,7 @@ h3.quote::before {
 }
 .comment-reply-form input:focus, .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #f89d35;
+  border: 1px solid #daa520;
 }
 .comment-reply-form textarea, .comment-reply-form .btn-main, .comment-reply-form .btn-small {
   height: auto;
@@ -1775,7 +1775,7 @@ h3.quote::before {
   color: rgba(255, 255, 255, 0.6);
 }
 .footer-socials li a:hover {
-  background: #f89d35;
+  background: #daa520;
   color: #fff;
 }
 
@@ -1786,10 +1786,10 @@ h3.quote::before {
   color: rgba(255, 255, 255, 0.7);
 }
 .footer-menu li a:hover {
-  color: #f89d35;
+  color: #daa520;
 }
 .footer-menu li a i {
-  color: #f89d35;
+  color: #daa520;
   margin-right: 9px;
 }
 
