@@ -1138,8 +1138,7 @@ ul.list-styled {
   border-radius: 100%;
   text-align: center;
   transform: translateY(0);
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
